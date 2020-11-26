@@ -1,0 +1,50 @@
+[
+{
+	"var": "A",
+	"M1": 780,
+	"D1": 250,
+	"D2": -60,
+	"P1": 0.8,
+	"P2": 0.2,
+	"buildProbab": null,
+	"noBuildProbab": null,
+	"years": 5,
+	"coef": 0
+},
+{
+	"var": "B",
+	"M1": 230,
+	"D1": 220,
+	"D2": -60,
+	"P1": 0.8,
+	"P2": 0.2,
+	"buildProbab": null,
+	"noBuildProbab": null,
+	"years": 5,
+	"coef": 0
+},
+{
+	"var": "C-A",
+	"M1": 780,
+	"D1": 250,
+	"D2": -60,
+	"P1": 0.9,
+	"P2": 0.1,
+	"buildProbab": null,
+	"noBuildProbab": null,
+	"years": 4,
+	"coef": 0
+},
+{
+	"var": "C-B",
+	"M1": 230,
+	"D1": 220,
+	"D2": -60,
+	"P1": 0.9,
+	"P2": 0.1,
+	"buildProbab": null,
+	"noBuildProbab": null,
+	"years": 4,
+	"coef": 0
+}
+]
