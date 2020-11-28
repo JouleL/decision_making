@@ -1,0 +1,6 @@
+Acer;Lenovo;Dell;HP;Asus
+Batery capacity:0.15;7;7;10;6;8
+Screen:0.15;8;9;6;7;10
+RAM:0.3;6;7;8;6;8
+Price:0.25;10;9;7;9;7
+Screen frame rate:0.15;8;8;9;5;10
